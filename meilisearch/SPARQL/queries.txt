@@ -1,0 +1,104 @@
+
+/////////////////////////////////////////////////////
+
+----------- Brick classes and definitions---------
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX brick: <https://brickschema.org/schema/Brick#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+select ?brick_class ?Definition where { 
+    {?brick_class ?p owl:Class .
+        OPTIONAL {
+        ?brick_class skos:definition ?Definition .
+             }
+    } 
+    UNION 
+    {?brick_class ?p brick:Quantity .
+    OPTIONAL {
+        ?brick_class skos:definition ?Definition .
+           }
+    }
+}
+
+
+////////////////////////////////////////////////////////
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX brick: <https://brickschema.org/schema/Brick#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+select ?brick_class ?Definition ?Tags where { 
+    {?brick_class ?p owl:Class .
+        OPTIONAL {
+        ?brick_class skos:definition ?Definition .
+            OPTIONAL {
+        ?brick_class brick:hasAssciatedTag ?Tags .
+            } }
+    } 
+    UNION 
+    {?brick_class ?p brick:Quantity .
+    OPTIONAL {
+        ?brick_class skos:definition ?Definition .
+            OPTIONAL {
+        ?brick_class brick:hasAssociatedTa ?Tags .
+            }}
+    }
+}
+
+
+//////////////////////////////////////////////////////////////
+
+---------HTO_Tags----------
+
+PREFIX hto2: <http://vcharpenay.github.io/hto/hto.xml#>
+select ?s ?p where { 
+    {?s a hto2:HTag .      
+    } 
+}
+
+
+//////////////////////////////////////////////////////////////
+
+-----------HTO_Classes--------
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+select ?hto_class where { 
+    {?hto_class ?p owl:Class .
+      
+    } 
+}
+
+//////////////////////////////////////////////////////////////
+building33 queries
+//////////////////////////////////////////////////////////////
+AHU Points
+//////////////////////////////////////////////////////////////
+
+
+
+PREFIX brick: <https://brickschema.org/schema/Brick#>
+PREFIX ref1: <https://brickschema.org/schema/Brick/ref>
+PREFIX bacnet: <http://data.ashrae.org/bacnet/2020#>
+select ?Points ?TimeseriesRef ?Objectname where { 
+	?s ?p brick:AHU .
+    ?Points brick:isPointOf ?s .
+    ?Points ref1:hasTimeseriesId ?TimeseriesRef .
+    ?Points bacnet:object-name ?Objectname .
+} limit 100 
+
+
+//////////////////////////////////////////////////////////////
+Alarms
+//////////////////////////////////////////////////////////////
+
+
+PREFIX brick: <https://brickschema.org/schema/Brick#>
+PREFIX ref1: <https://brickschema.org/schema/Brick/ref>
+PREFIX bacnet: <http://data.ashrae.org/bacnet/2020#>
+select ?Points  where { 
+	?s ?p brick:AHU .
+    ?Points brick:isPointOf ?s .
+    ?Points a brick:Alarm .
+} limit 100 
+
+//////////////////////////////////////////////////////////////

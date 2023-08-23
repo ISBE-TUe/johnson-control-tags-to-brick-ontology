@@ -1,0 +1,234 @@
+[
+    {
+        "id": 0,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#HTag"
+    },
+    {
+        "id": 1,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Equipment"
+    },
+    {
+        "id": 2,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Point"
+    },
+    {
+        "id": 3,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Section"
+    },
+    {
+        "id": 4,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Measurement"
+    },
+    {
+        "id": 5,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#PhysicalBody"
+    },
+    {
+        "id": 6,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#HEntity"
+    },
+    {
+        "id": 7,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#AHU"
+    },
+    {
+        "id": 8,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#HVAC"
+    },
+    {
+        "id": 9,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Air"
+    },
+    {
+        "id": 10,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Boiler"
+    },
+    {
+        "id": 11,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#CO2"
+    },
+    {
+        "id": 12,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#ChilledSystem"
+    },
+    {
+        "id": 13,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Chiller"
+    },
+    {
+        "id": 14,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Command"
+    },
+    {
+        "id": 15,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#CondenserSystem"
+    },
+    {
+        "id": 16,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#CoolingCoil"
+    },
+    {
+        "id": 17,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Discharge"
+    },
+    {
+        "id": 18,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Efficiency"
+    },
+    {
+        "id": 19,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Entering"
+    },
+    {
+        "id": 20,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Exhaust"
+    },
+    {
+        "id": 21,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Fan"
+    },
+    {
+        "id": 22,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Flow"
+    },
+    {
+        "id": 23,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Frequency"
+    },
+    {
+        "id": 24,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Gas"
+    },
+    {
+        "id": 25,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#HeatingCoil"
+    },
+    {
+        "id": 26,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Historized"
+    },
+    {
+        "id": 27,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#PointProperty"
+    },
+    {
+        "id": 28,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Humidity"
+    },
+    {
+        "id": 29,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#IsolationValve"
+    },
+    {
+        "id": 30,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Valve"
+    },
+    {
+        "id": 31,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Leaving"
+    },
+    {
+        "id": 32,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#LightLevel"
+    },
+    {
+        "id": 33,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#LightsGroup"
+    },
+    {
+        "id": 34,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Meter"
+    },
+    {
+        "id": 35,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Mixed"
+    },
+    {
+        "id": 36,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#OnOff"
+    },
+    {
+        "id": 37,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Percentage"
+    },
+    {
+        "id": 38,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#PerimeterHeat"
+    },
+    {
+        "id": 39,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Power"
+    },
+    {
+        "id": 40,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Pressure"
+    },
+    {
+        "id": 41,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Pump"
+    },
+    {
+        "id": 42,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#VFD"
+    },
+    {
+        "id": 43,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#RTU"
+    },
+    {
+        "id": 44,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#RealTime"
+    },
+    {
+        "id": 45,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#RefrigerantSubstance"
+    },
+    {
+        "id": 46,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Return"
+    },
+    {
+        "id": 47,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Sensor"
+    },
+    {
+        "id": 48,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#SetPoint"
+    },
+    {
+        "id": 49,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Site"
+    },
+    {
+        "id": 50,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Speed"
+    },
+    {
+        "id": 51,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Steam"
+    },
+    {
+        "id": 52,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Temperature"
+    },
+    {
+        "id": 53,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#VAV"
+    },
+    {
+        "id": 54,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#VFDFan"
+    },
+    {
+        "id": 55,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Water"
+    },
+    {
+        "id": 56,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Writable"
+    },
+    {
+        "id": 57,
+        "hto_class": "http://vcharpenay.github.io/hto/hto.xml#Zone"
+    }
+]

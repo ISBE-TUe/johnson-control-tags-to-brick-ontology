@@ -1,0 +1,26 @@
+[{
+    "s" : {
+      "type" : "uri",
+      "value" : "https://brickschema.org/schema/Brick#Ablutions_Room"
+    },
+    "p" : {
+      "type" : "uri",
+      "value" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+    },
+    "Definition" : {
+      "xml:lang" : "en",
+      "type" : "literal",
+      "value" : "A room for performing cleansing rituals before prayer"
+    }
+  },
+  {
+    "s" : {
+      "type" : "bnode",
+      "value" : "node1"
+    },
+    "p" : {
+      "type" : "uri",
+      "value" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+    }
+  }
+]

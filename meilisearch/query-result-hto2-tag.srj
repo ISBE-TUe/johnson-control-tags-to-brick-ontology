@@ -1,0 +1,384 @@
+{
+  "head" : {
+    "vars" : [
+      "Hto2_tag",
+      "p"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#sensor"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#ahu"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#air"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#boiler"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#bypass"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#chilled"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#chiller"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#cmd"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#co2"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#condenser"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#cool"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#cooling"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#damper"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#delta"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#discharge"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#effective"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#efficiency"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#elec"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#enable"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#energy"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#entering"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#evaporator"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#exhaust"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#faceBypass"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#fan"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#filter"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#flow"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#freezeStat"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#freq"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#gas"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#heat"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#heatWheel"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#heating"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#humidifier"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#humidity"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#hvac"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#isolation"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#leaving"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#lightLevel"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#lights"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#lightsGroup"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#load"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#meter"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#mixed"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#occupancyIndicator"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#perimeterHeat"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#point"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#power"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#pressure"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#refrig"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#return"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#rooftop"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#run"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#sp"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#speed"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#steam"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#temp"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#valve"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#vav"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#vfd"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#water"
+        }
+      },
+      {
+        "Hto2_tag" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#zone"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "head" : {
+    "vars" : [
+      "hto_class"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#HTag"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Equipment"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Point"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Section"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Measurement"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#PhysicalBody"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#HEntity"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#AHU"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#HVAC"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Air"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Boiler"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#CO2"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#ChilledSystem"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Chiller"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Command"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#CondenserSystem"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#CoolingCoil"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Discharge"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Efficiency"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Entering"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Exhaust"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Fan"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Flow"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Frequency"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Gas"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#HeatingCoil"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Historized"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#PointProperty"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Humidity"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#IsolationValve"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Valve"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Leaving"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#LightLevel"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#LightsGroup"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Meter"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Mixed"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#OnOff"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Percentage"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#PerimeterHeat"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Power"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Pressure"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Pump"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#VFD"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#RTU"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#RealTime"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#RefrigerantSubstance"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Return"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Sensor"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#SetPoint"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Site"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Speed"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Steam"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Temperature"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#VAV"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#VFDFan"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Water"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Writable"
+        }
+      },
+      {
+        "hto_class" : {
+          "type" : "uri",
+          "value" : "http://vcharpenay.github.io/hto/hto.xml#Zone"
+        }
+      }
+    ]
+  }
+}
